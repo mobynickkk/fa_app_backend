@@ -19,7 +19,7 @@ class Profile(models.Model):
     photo = models.ImageField()
     name = models.CharField(max_length=128)
     faculty = models.CharField(max_length=32)
-    group = models.CharField(max_length=8)
+    group = models.ForeignKey(Group, on_delete=models.SET_NULL)
     is_monitor = models.BooleanField(default=False)
 
 
@@ -30,4 +30,5 @@ class Subject(models.Model):
 
 class HomeTask(models.Model):
     subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
+    group = models.ForeignKey(Group, on_delete=models.CASCADE)
     task = models.TextField()
