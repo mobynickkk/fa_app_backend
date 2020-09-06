@@ -11,5 +11,10 @@ class Profile(models.Model):
     is_monitor = models.BooleanField(default=False)
 
 
+class Subject(models.Model):
+    name = models.CharField(max_length=32)
+    department = models.CharField(max_length=32)
+
+
 class HomeTask(models.Model):
     pass
