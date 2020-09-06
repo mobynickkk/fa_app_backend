@@ -34,4 +34,5 @@ class Subject(models.Model):
 class HomeTask(models.Model):
     subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
     group = models.ForeignKey(Group, on_delete=models.CASCADE)
+    deadline = models.DateField()
     task = models.TextField()
