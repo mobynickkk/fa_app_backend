@@ -2,6 +2,16 @@ from django.db import models
 from django.contrib.auth.models import User
 
 
+class Group(models.Model):
+    field = models.CharField(max_length=2)
+    first_year = models.IntegerField()
+    number = models.IntegerField()
+    index = models.CharField(blank=True, null=True, primary_key=True)
+
+    def save(self, *args, **kwargs):
+        field = self.field.upper()
+        self.index = field+str(self.first_year)+'-'+str(self.number)
+        super().save(*args, **kwargs)
 
 
 class Profile(models.Model):
