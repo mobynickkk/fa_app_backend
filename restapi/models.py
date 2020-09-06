@@ -2,6 +2,8 @@ from django.db import models
 from django.contrib.auth.models import User
 
 
+
+
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     photo = models.ImageField()
@@ -17,4 +19,5 @@ class Subject(models.Model):
 
 
 class HomeTask(models.Model):
-    pass
+    subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
+    task = models.TextField()
