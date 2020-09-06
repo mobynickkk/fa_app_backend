@@ -8,6 +8,9 @@ class Group(models.Model):
     number = models.IntegerField()
     index = models.CharField(blank=True, null=True, primary_key=True)
 
+    def __str__(self):
+        return self.index
+
     def save(self, *args, **kwargs):
         field = self.field.upper()
         self.index = field+str(self.first_year)+'-'+str(self.number)
