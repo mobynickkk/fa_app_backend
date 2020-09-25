@@ -1,0 +1,4227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FU_calendar//FU calendar 1.0//RU
+METHOD:PUBLISH
+COLOR:teal
+DESCRIPTION:Расписание Финансового Университ
+ ета schedule.fa.ru
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+TIMEZONE-ID:Europe/Moscow
+URL:https://schedule.fa.ru/calendar/group/10967
+X-PUBLISHED-TTL:PT4H
+X-WR-CALDESC:Расписание Финансового Универси
+ тета schedule.fa.ru
+X-WR-CALNAME:Расписание Университета
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200901T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200901T114000
+DTSTAMP;VALUE=DATE-TIME:20200901T074000Z
+UID:cbd00747bad7a73c113699c59dc8ffa9
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200901T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200901T132000
+DTSTAMP;VALUE=DATE-TIME:20200901T092000Z
+UID:ece707145a7acd7b3a3c31c707933cbe
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T100000
+DTSTAMP;VALUE=DATE-TIME:20200902T060000Z
+UID:eac70bedcb71fdad11d50ce479e48647
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T114000
+DTSTAMP;VALUE=DATE-TIME:20200902T074000Z
+UID:43328481f1d87cdb964ee2f3f8126926
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T132000
+DTSTAMP;VALUE=DATE-TIME:20200902T092000Z
+UID:e952a0cadbae426b7d4e069766394565
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200902T171000
+DTSTAMP;VALUE=DATE-TIME:20200902T131000Z
+UID:0008f5eaf745b908c5abffc11ce72c16
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T100000
+DTSTAMP;VALUE=DATE-TIME:20200903T060000Z
+UID:15d35529a092adcf603e31e859766c35
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T114000
+DTSTAMP;VALUE=DATE-TIME:20200903T074000Z
+UID:e8c2ca6bf3e814b2f6c7842cfcc48dcd
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T114000
+DTSTAMP;VALUE=DATE-TIME:20200903T074000Z
+UID:6f2e3501246668a887568978ae0cbbe7
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T114000
+DTSTAMP;VALUE=DATE-TIME:20200903T074000Z
+UID:b61be43952b3e2949364cc6b80148ad5
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T114000
+DTSTAMP;VALUE=DATE-TIME:20200903T074000Z
+UID:9a9d61337cc3a9aedbddac01b3d7594d
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200903T114000
+DTSTAMP;VALUE=DATE-TIME:20200903T074000Z
+UID:2c21c2dc298897908e4aaf1bcfe7904c
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T100000
+DTSTAMP;VALUE=DATE-TIME:20200904T060000Z
+UID:b774172e3debe9eff61a44603e881703
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T114000
+DTSTAMP;VALUE=DATE-TIME:20200904T074000Z
+UID:7cc3c1c3deaf48bd82682505229be4d3
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T114000
+DTSTAMP;VALUE=DATE-TIME:20200904T074000Z
+UID:11129030f5830c5301a54dbb174703e3
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T114000
+DTSTAMP;VALUE=DATE-TIME:20200904T074000Z
+UID:427853382b234c68533acf6022e99a7b
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T114000
+DTSTAMP;VALUE=DATE-TIME:20200904T074000Z
+UID:01f007bff65b6f1f7ad5fa76c1edf292
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200904T132000
+DTSTAMP;VALUE=DATE-TIME:20200904T092000Z
+UID:d1b77169fc0b20f69649f90738209795
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T100000
+DTSTAMP;VALUE=DATE-TIME:20200907T060000Z
+UID:7ca338f6e181b92cbcb6cf1436386c62
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T114000
+DTSTAMP;VALUE=DATE-TIME:20200907T074000Z
+UID:643c82f25bab2fa04947606e3dbe56bd
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T132000
+DTSTAMP;VALUE=DATE-TIME:20200907T092000Z
+UID:31c5f3fa48777d2e0002c0efbfbecf17
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200907T171000
+DTSTAMP;VALUE=DATE-TIME:20200907T131000Z
+UID:9a9411c1a3b875f04b64529cbfd8784d
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200908T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200908T100000
+DTSTAMP;VALUE=DATE-TIME:20200908T060000Z
+UID:5400f3ca61a00c17e5d9d2d0df6e4ff6
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200908T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200908T114000
+DTSTAMP;VALUE=DATE-TIME:20200908T074000Z
+UID:203633da3b78d6abc76782abf7597c08
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200908T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200908T132000
+DTSTAMP;VALUE=DATE-TIME:20200908T092000Z
+UID:8bc7479035646dc82e2a4a134fc06b33
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T100000
+DTSTAMP;VALUE=DATE-TIME:20200909T060000Z
+UID:5e64a2eaf318b659ca1b37d12a64c756
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T114000
+DTSTAMP;VALUE=DATE-TIME:20200909T074000Z
+UID:d2ab34ce8e917c31e1588221a330c94d
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T132000
+DTSTAMP;VALUE=DATE-TIME:20200909T092000Z
+UID:3493a94dae0b7ca3f8bbf443351a778e
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200909T171000
+DTSTAMP;VALUE=DATE-TIME:20200909T131000Z
+UID:eb542f14ccdae06082c555cb68dc1190
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T100000
+DTSTAMP;VALUE=DATE-TIME:20200910T060000Z
+UID:e38cbefea683fe98fe8092296b52bd28
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T114000
+DTSTAMP;VALUE=DATE-TIME:20200910T074000Z
+UID:f3534124f988a56b4df13edca9df1a44
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T114000
+DTSTAMP;VALUE=DATE-TIME:20200910T074000Z
+UID:e8a53c325bd9926a8cdf838e9e17ed2b
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T114000
+DTSTAMP;VALUE=DATE-TIME:20200910T074000Z
+UID:383d8b93510e54781c8cd5bd6de9a10e
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T114000
+DTSTAMP;VALUE=DATE-TIME:20200910T074000Z
+UID:f09a097fac7824ef335f5beff37fb2c1
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T114000
+DTSTAMP;VALUE=DATE-TIME:20200910T074000Z
+UID:bba297cec1abb475687fdd5b499891a5
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200910T132000
+DTSTAMP;VALUE=DATE-TIME:20200910T092000Z
+UID:48f6364f5cb82f76683437d60cff2bcf
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T100000
+DTSTAMP;VALUE=DATE-TIME:20200911T060000Z
+UID:79034cac875b85fde6b4dafb191813fe
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T114000
+DTSTAMP;VALUE=DATE-TIME:20200911T074000Z
+UID:e49ba8f92ad53e2026dc734d91c82df3
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T114000
+DTSTAMP;VALUE=DATE-TIME:20200911T074000Z
+UID:2162d366bed30cfd00c2eb5e1f4bdc6d
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T114000
+DTSTAMP;VALUE=DATE-TIME:20200911T074000Z
+UID:752d2dd57889e6379b8edc4409208111
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T114000
+DTSTAMP;VALUE=DATE-TIME:20200911T074000Z
+UID:6993bc630fb418d94929ef034623e851
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200911T132000
+DTSTAMP;VALUE=DATE-TIME:20200911T092000Z
+UID:a414a237059dfa276ceb1663f8d47c18
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T100000
+DTSTAMP;VALUE=DATE-TIME:20200914T060000Z
+UID:d55abb9c6f9a69fa9e240eb572bab418
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T114000
+DTSTAMP;VALUE=DATE-TIME:20200914T074000Z
+UID:0be45c76c18e1f5d15fff4e5c2d17112
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T132000
+DTSTAMP;VALUE=DATE-TIME:20200914T092000Z
+UID:641271f01edfd692cbb18c47eccf07d1
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200914T171000
+DTSTAMP;VALUE=DATE-TIME:20200914T131000Z
+UID:0b44a4a9aa0e88fe03d55db5e2e8899c
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200915T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200915T114000
+DTSTAMP;VALUE=DATE-TIME:20200915T074000Z
+UID:1527c8c3285b15f66e7ae3944d80256e
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200915T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200915T132000
+DTSTAMP;VALUE=DATE-TIME:20200915T092000Z
+UID:8df3c621a76f64a8d9b6b5c107bc0b90
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T100000
+DTSTAMP;VALUE=DATE-TIME:20200916T060000Z
+UID:1724c8f70b1eb82ac24971c0ef0c10e6
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T114000
+DTSTAMP;VALUE=DATE-TIME:20200916T074000Z
+UID:03b28bd309c101fd11c52a549087c28d
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T132000
+DTSTAMP;VALUE=DATE-TIME:20200916T092000Z
+UID:019e0e0c874f8608706764479ec132f8
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200916T171000
+DTSTAMP;VALUE=DATE-TIME:20200916T131000Z
+UID:65a07cf3e06931d5005f268768316fac
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T100000
+DTSTAMP;VALUE=DATE-TIME:20200917T060000Z
+UID:53c0c5bf3a5f58fbb9eb8e16dc343a1c
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T114000
+DTSTAMP;VALUE=DATE-TIME:20200917T074000Z
+UID:8acd3d2c9a5f3ec433a341126a4437d9
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T114000
+DTSTAMP;VALUE=DATE-TIME:20200917T074000Z
+UID:d4270085d342ef164e916a32cd3aa126
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T114000
+DTSTAMP;VALUE=DATE-TIME:20200917T074000Z
+UID:2e02009e3504e5f49b644a9e1c05de7d
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T114000
+DTSTAMP;VALUE=DATE-TIME:20200917T074000Z
+UID:7414743d70564e66ad688a263f5d5345
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200917T114000
+DTSTAMP;VALUE=DATE-TIME:20200917T074000Z
+UID:4975d22173911d29e4d4b0c81cb43dec
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T100000
+DTSTAMP;VALUE=DATE-TIME:20200918T060000Z
+UID:c9f196ce12b8502e9d0bba6227e2b3b4
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T114000
+DTSTAMP;VALUE=DATE-TIME:20200918T074000Z
+UID:d7d518ea571046376bea13f1169987a5
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T114000
+DTSTAMP;VALUE=DATE-TIME:20200918T074000Z
+UID:18427a5cc5692c8e44a6bc2fac7d3f20
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T114000
+DTSTAMP;VALUE=DATE-TIME:20200918T074000Z
+UID:6ce5724bd156e52f2dd1a59a1c964bf5
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T114000
+DTSTAMP;VALUE=DATE-TIME:20200918T074000Z
+UID:514dc38cef8589b2a3c0e6428bce00b3
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200918T132000
+DTSTAMP;VALUE=DATE-TIME:20200918T092000Z
+UID:90640a989e0e72c7900d6efa87a46bf8
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T100000
+DTSTAMP;VALUE=DATE-TIME:20200921T060000Z
+UID:d3215708305698df3b3350579447692e
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T114000
+DTSTAMP;VALUE=DATE-TIME:20200921T074000Z
+UID:68ddc6f4514a16725152cd1553fe715b
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T132000
+DTSTAMP;VALUE=DATE-TIME:20200921T092000Z
+UID:4e34184853b2dbddc85f071f2bc5fc73
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200921T171000
+DTSTAMP;VALUE=DATE-TIME:20200921T131000Z
+UID:6e4bffc426d5ec559869003c4be9e7b6
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200922T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200922T100000
+DTSTAMP;VALUE=DATE-TIME:20200922T060000Z
+UID:f85994bf9926f1e806b34ad7277510ec
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200922T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200922T114000
+DTSTAMP;VALUE=DATE-TIME:20200922T074000Z
+UID:4df14d48ea3187cb3649b62dff6cef9a
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200922T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200922T132000
+DTSTAMP;VALUE=DATE-TIME:20200922T092000Z
+UID:f3ceba9247dab34108d7b7753bb5c616
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T100000
+DTSTAMP;VALUE=DATE-TIME:20200923T060000Z
+UID:e8d211a63795c7e418beec3b16a4c54c
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T114000
+DTSTAMP;VALUE=DATE-TIME:20200923T074000Z
+UID:d4f6eda0fbfe78a622e0d9f0ad6dbc75
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T132000
+DTSTAMP;VALUE=DATE-TIME:20200923T092000Z
+UID:e53f942c28c8c66ab02236bac7393ea2
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200923T171000
+DTSTAMP;VALUE=DATE-TIME:20200923T131000Z
+UID:28b088ed267e58dd0dc34acb91b5b8f1
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T100000
+DTSTAMP;VALUE=DATE-TIME:20200924T060000Z
+UID:cfa786ca4c72bd04aea058d6c6782102
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T114000
+DTSTAMP;VALUE=DATE-TIME:20200924T074000Z
+UID:91445522ae58e18ca5e162879c0a1555
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T114000
+DTSTAMP;VALUE=DATE-TIME:20200924T074000Z
+UID:b3e91a3e5a1d5c37f0dab41421e29515
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T114000
+DTSTAMP;VALUE=DATE-TIME:20200924T074000Z
+UID:a409ec183173ee5dc20263de2f97c2ee
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T114000
+DTSTAMP;VALUE=DATE-TIME:20200924T074000Z
+UID:51c3e598cf70063cfaa9cb922902d6f7
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T114000
+DTSTAMP;VALUE=DATE-TIME:20200924T074000Z
+UID:9c87651ff0f72e5762c8f5732a16e33c
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200924T132000
+DTSTAMP;VALUE=DATE-TIME:20200924T092000Z
+UID:14eecdcf4f386740e5ec789b66f94175
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T100000
+DTSTAMP;VALUE=DATE-TIME:20200925T060000Z
+UID:f755564d6465225810f112a1803809b6
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T114000
+DTSTAMP;VALUE=DATE-TIME:20200925T074000Z
+UID:457af688dfb91199a9ccd2d408e432eb
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T114000
+DTSTAMP;VALUE=DATE-TIME:20200925T074000Z
+UID:bbfa3c0f36f2baefcba572ca38dab489
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T114000
+DTSTAMP;VALUE=DATE-TIME:20200925T074000Z
+UID:4dbfd72e94df6edd723c42b89913b587
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T114000
+DTSTAMP;VALUE=DATE-TIME:20200925T074000Z
+UID:0ff16077858b1e07a05134387f1df69e
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200925T132000
+DTSTAMP;VALUE=DATE-TIME:20200925T092000Z
+UID:f7185ffffbcb185739ff0e1863ef29bc
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T100000
+DTSTAMP;VALUE=DATE-TIME:20200928T060000Z
+UID:441d2fbe4a69918bc318f9c8547d5a26
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T114000
+DTSTAMP;VALUE=DATE-TIME:20200928T074000Z
+UID:5a885a8461722a71243d13c743ee7d9d
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T132000
+DTSTAMP;VALUE=DATE-TIME:20200928T092000Z
+UID:5e5a0c447e3b0d2f16c2b1dbbbbb7598
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200928T171000
+DTSTAMP;VALUE=DATE-TIME:20200928T131000Z
+UID:ab41f02653068a93c9ea46eccb4ca210
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200929T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200929T114000
+DTSTAMP;VALUE=DATE-TIME:20200929T074000Z
+UID:aa8dd1280cddc4fdac1931f35bef7a3d
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200929T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200929T132000
+DTSTAMP;VALUE=DATE-TIME:20200929T092000Z
+UID:3d964e33707b8e6e69e635f4cef7c475
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T100000
+DTSTAMP;VALUE=DATE-TIME:20200930T060000Z
+UID:e0be03e3311b0d44f582cb06365dc564
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T114000
+DTSTAMP;VALUE=DATE-TIME:20200930T074000Z
+UID:7dee8dff4088aef40a611a53601bbed0
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T132000
+DTSTAMP;VALUE=DATE-TIME:20200930T092000Z
+UID:e6e34ca70dab575a65007d5d8495bd6c
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20200930T171000
+DTSTAMP;VALUE=DATE-TIME:20200930T131000Z
+UID:223d80971e82cedf7499cc263ceb9007
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T100000
+DTSTAMP;VALUE=DATE-TIME:20201001T060000Z
+UID:761a08d9549801f1e5bae4fed4e1940c
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T114000
+DTSTAMP;VALUE=DATE-TIME:20201001T074000Z
+UID:b88763dfec86c26af83c8d0d07af9752
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T114000
+DTSTAMP;VALUE=DATE-TIME:20201001T074000Z
+UID:47a496e8a716329caa4c9b24573bb934
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T114000
+DTSTAMP;VALUE=DATE-TIME:20201001T074000Z
+UID:91394646022f96c24fef472e42283158
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T114000
+DTSTAMP;VALUE=DATE-TIME:20201001T074000Z
+UID:b0f2c219db3352618a0176fc647f0444
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201001T114000
+DTSTAMP;VALUE=DATE-TIME:20201001T074000Z
+UID:911f775584d050cd231551f806e8e3d4
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T100000
+DTSTAMP;VALUE=DATE-TIME:20201002T060000Z
+UID:cc53e362f24ad2758915344c3aaf3bc8
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T114000
+DTSTAMP;VALUE=DATE-TIME:20201002T074000Z
+UID:50b11f6d87a075f88448c0ee654d430c
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T114000
+DTSTAMP;VALUE=DATE-TIME:20201002T074000Z
+UID:c956a16ecd06799711cab977e204110c
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T114000
+DTSTAMP;VALUE=DATE-TIME:20201002T074000Z
+UID:540546dc60a89dfb544f0853294570f8
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T114000
+DTSTAMP;VALUE=DATE-TIME:20201002T074000Z
+UID:e485129ccd4125664cab865e210efbe7
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201002T132000
+DTSTAMP;VALUE=DATE-TIME:20201002T092000Z
+UID:d22eb9859170ea0118c6fd5a15c2d10a
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201003T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201003T100000
+DTSTAMP;VALUE=DATE-TIME:20201003T060000Z
+UID:ec2f6f497cd5cc7c5d4709dd96b3e6a7
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Малый зал\, Ленинградский проспект\,
+  49/2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T100000
+DTSTAMP;VALUE=DATE-TIME:20201005T060000Z
+UID:5ff96eac97d04983a50dd649a54b6657
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T114000
+DTSTAMP;VALUE=DATE-TIME:20201005T074000Z
+UID:731e124fbb0d4e49a1e964a0681bb70c
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T132000
+DTSTAMP;VALUE=DATE-TIME:20201005T092000Z
+UID:6bba07fc759024f1a1ed3d5bf056ba1d
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201005T171000
+DTSTAMP;VALUE=DATE-TIME:20201005T131000Z
+UID:df388f75ef9f82b0fd83f136ece57555
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201006T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201006T100000
+DTSTAMP;VALUE=DATE-TIME:20201006T060000Z
+UID:8c2361dcec94c551e44342657ebf1914
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201006T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201006T114000
+DTSTAMP;VALUE=DATE-TIME:20201006T074000Z
+UID:1c50ac8eb9274664a705bc113b4b7800
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201006T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201006T132000
+DTSTAMP;VALUE=DATE-TIME:20201006T092000Z
+UID:e286c165cc0cce6e67307a78911cacbe
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T100000
+DTSTAMP;VALUE=DATE-TIME:20201007T060000Z
+UID:19fff896ac897d43dafadc3664cb7ca3
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T114000
+DTSTAMP;VALUE=DATE-TIME:20201007T074000Z
+UID:afab84540efeea5affb33aeb8427ece6
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T132000
+DTSTAMP;VALUE=DATE-TIME:20201007T092000Z
+UID:89921fc047b10e2260afef69d3ae00a4
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201007T171000
+DTSTAMP;VALUE=DATE-TIME:20201007T131000Z
+UID:df9f32e1fe293ecb8c77b8ebaf6e8298
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T100000
+DTSTAMP;VALUE=DATE-TIME:20201008T060000Z
+UID:d0bd9071743699be52f8fbd8ee55b2ca
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T114000
+DTSTAMP;VALUE=DATE-TIME:20201008T074000Z
+UID:c97391d0cb1dbc7ffabbb58f022f7673
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T114000
+DTSTAMP;VALUE=DATE-TIME:20201008T074000Z
+UID:506738017b41acb189502575d37fc864
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T114000
+DTSTAMP;VALUE=DATE-TIME:20201008T074000Z
+UID:61fdd4041ceb99cfed4ae2d91d931003
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T114000
+DTSTAMP;VALUE=DATE-TIME:20201008T074000Z
+UID:a949eac5ac10991fe4977e3fe4a5bf48
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T114000
+DTSTAMP;VALUE=DATE-TIME:20201008T074000Z
+UID:373180d5e421a1f6b73fb4d3366153bb
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201008T132000
+DTSTAMP;VALUE=DATE-TIME:20201008T092000Z
+UID:2cc9c9ad5ca30f17f7847bf8b336e464
+DESCRIPTION:Лекция\nПреподаватель: Посашков С
+ ергей Александрович\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T100000
+DTSTAMP;VALUE=DATE-TIME:20201009T060000Z
+UID:c24562e851462be9ec785d55cbcf19dd
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T114000
+DTSTAMP;VALUE=DATE-TIME:20201009T074000Z
+UID:8fb8d1aa49a6110741a849975a643c6c
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T114000
+DTSTAMP;VALUE=DATE-TIME:20201009T074000Z
+UID:a82bc4272da516c544f72a1ee939857f
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T114000
+DTSTAMP;VALUE=DATE-TIME:20201009T074000Z
+UID:4bc5b6f6acfb2ea00c7ab8d50f7007c3
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T114000
+DTSTAMP;VALUE=DATE-TIME:20201009T074000Z
+UID:eaecc7b2e718917795d29ea24c2fa19c
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201009T132000
+DTSTAMP;VALUE=DATE-TIME:20201009T092000Z
+UID:a21aeed79adeed48943534ec8d6fa326
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T100000
+DTSTAMP;VALUE=DATE-TIME:20201012T060000Z
+UID:1cb69815b6f7ae368e5b9ee844c861cf
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T114000
+DTSTAMP;VALUE=DATE-TIME:20201012T074000Z
+UID:23a546556dd48ced6325cd03ddc98d60
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T132000
+DTSTAMP;VALUE=DATE-TIME:20201012T092000Z
+UID:7b74f5995699ee586d4a8cc549313d4f
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201012T171000
+DTSTAMP;VALUE=DATE-TIME:20201012T131000Z
+UID:e13ea321c4e87c8a72a6c44713876e22
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201013T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201013T100000
+DTSTAMP;VALUE=DATE-TIME:20201013T060000Z
+UID:1f40d3fa91cea37fb807983bc90e94b9
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:611\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201013T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201013T114000
+DTSTAMP;VALUE=DATE-TIME:20201013T074000Z
+UID:738b81df7e1a53a6423f72138d251578
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201013T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201013T132000
+DTSTAMP;VALUE=DATE-TIME:20201013T092000Z
+UID:112f1ba825b013be858f1deaf6213d7d
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T100000
+DTSTAMP;VALUE=DATE-TIME:20201014T060000Z
+UID:e659f5333aa2d4153ccdb932fb0e0245
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T114000
+DTSTAMP;VALUE=DATE-TIME:20201014T074000Z
+UID:6e3efb4cb4463ac3f1e9560d1bfe8c9a
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T132000
+DTSTAMP;VALUE=DATE-TIME:20201014T092000Z
+UID:b27a19c1482da54871a2fefcd7715ba0
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201014T171000
+DTSTAMP;VALUE=DATE-TIME:20201014T131000Z
+UID:752bfbbb1396156e8cdb1315d80809ed
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T100000
+DTSTAMP;VALUE=DATE-TIME:20201015T060000Z
+UID:c89740413ca46c6d0906f28749c2b0f4
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T114000
+DTSTAMP;VALUE=DATE-TIME:20201015T074000Z
+UID:5ab3575f177c05402aee05830bc588aa
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T114000
+DTSTAMP;VALUE=DATE-TIME:20201015T074000Z
+UID:218a84252ecf0b10dc3019cd920ece1f
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T114000
+DTSTAMP;VALUE=DATE-TIME:20201015T074000Z
+UID:73b9581f2a8dc23384c6332df7c487b5
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T114000
+DTSTAMP;VALUE=DATE-TIME:20201015T074000Z
+UID:c25f66c30454d93d566b16a9f5b0ea4a
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201015T114000
+DTSTAMP;VALUE=DATE-TIME:20201015T074000Z
+UID:46e3474c021eedc8dc40943f3f54974f
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T100000
+DTSTAMP;VALUE=DATE-TIME:20201016T060000Z
+UID:6a119204dfbc1f95ce21dbe6d7e158cc
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T114000
+DTSTAMP;VALUE=DATE-TIME:20201016T074000Z
+UID:378ec2005235622012eaf581bcd9cde7
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T114000
+DTSTAMP;VALUE=DATE-TIME:20201016T074000Z
+UID:c32d7fd7e979e82adb08ebe2d0881e85
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T114000
+DTSTAMP;VALUE=DATE-TIME:20201016T074000Z
+UID:de42f0eb7b35550a4d73865233b9c57c
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T114000
+DTSTAMP;VALUE=DATE-TIME:20201016T074000Z
+UID:abe112bc6f2c12cb3943eb8750d7f2bf
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T132000
+DTSTAMP;VALUE=DATE-TIME:20201016T092000Z
+UID:4c19a6b457b5a9250571ce08746ca802
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T140000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201016T153000
+DTSTAMP;VALUE=DATE-TIME:20201016T113000Z
+UID:f847dbdcec8612adb1bc79c8d903f354
+DESCRIPTION:Семинар\nПреподаватель: Посашков 
+ Сергей Александрович\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T100000
+DTSTAMP;VALUE=DATE-TIME:20201019T060000Z
+UID:29ee34908c07397f41f3a419fc394b02
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T114000
+DTSTAMP;VALUE=DATE-TIME:20201019T074000Z
+UID:94f7d14a8651b2f7572afe88f3a835e5
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T132000
+DTSTAMP;VALUE=DATE-TIME:20201019T092000Z
+UID:83522fe5c302230edba0508c0c016988
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201019T171000
+DTSTAMP;VALUE=DATE-TIME:20201019T131000Z
+UID:367c15aa19f389a2768efa7900814798
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201020T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201020T100000
+DTSTAMP;VALUE=DATE-TIME:20201020T060000Z
+UID:c03097bbddc38b65f9250f27cb9cebca
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201020T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201020T114000
+DTSTAMP;VALUE=DATE-TIME:20201020T074000Z
+UID:4d7e621cb822ba535592a0cf38177654
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201020T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201020T132000
+DTSTAMP;VALUE=DATE-TIME:20201020T092000Z
+UID:a37d99c9516994f3ecdfe120d97404dc
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T100000
+DTSTAMP;VALUE=DATE-TIME:20201021T060000Z
+UID:2af120435bde80445c896c2cdcce5e06
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T114000
+DTSTAMP;VALUE=DATE-TIME:20201021T074000Z
+UID:7b58a9718d885c588455b72f4549f8d4
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T132000
+DTSTAMP;VALUE=DATE-TIME:20201021T092000Z
+UID:f1ebc5dc68252999da79a1252a25625b
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201021T171000
+DTSTAMP;VALUE=DATE-TIME:20201021T131000Z
+UID:1f1a1002efafb423999bf5c05feec8f1
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T100000
+DTSTAMP;VALUE=DATE-TIME:20201022T060000Z
+UID:a4bbabaa6d1b0e7bcd075dd0ecaec37f
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T114000
+DTSTAMP;VALUE=DATE-TIME:20201022T074000Z
+UID:5f012536110c09fee4b12a3cd06457e2
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T114000
+DTSTAMP;VALUE=DATE-TIME:20201022T074000Z
+UID:9ef29a5232b84054748c1c6355e83c3f
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T114000
+DTSTAMP;VALUE=DATE-TIME:20201022T074000Z
+UID:bf203cc1f257688747db39ca404fa6c7
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T114000
+DTSTAMP;VALUE=DATE-TIME:20201022T074000Z
+UID:2597d55db5fd8918344c9b06019dc0ed
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T114000
+DTSTAMP;VALUE=DATE-TIME:20201022T074000Z
+UID:5b4203b20baa1b40c1378ef0d8a49858
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201022T132000
+DTSTAMP;VALUE=DATE-TIME:20201022T092000Z
+UID:9c3198152ddec27f76dd4b7d9de995b6
+DESCRIPTION:Лекция\nПреподаватель: Посашков С
+ ергей Александрович\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T100000
+DTSTAMP;VALUE=DATE-TIME:20201023T060000Z
+UID:d00a6b7fa2344513306cd2e34c038f98
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T114000
+DTSTAMP;VALUE=DATE-TIME:20201023T074000Z
+UID:35842d03307c2cf78bf05e5afb651af0
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T114000
+DTSTAMP;VALUE=DATE-TIME:20201023T074000Z
+UID:ce66bc1b37818dea33fcf89af19fc14d
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T114000
+DTSTAMP;VALUE=DATE-TIME:20201023T074000Z
+UID:521d9dff2495fef1bf687a89aa61d5e2
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T114000
+DTSTAMP;VALUE=DATE-TIME:20201023T074000Z
+UID:027017d21f1704cdaa14f55b1eef80a8
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201023T132000
+DTSTAMP;VALUE=DATE-TIME:20201023T092000Z
+UID:f88d6e083b7952e842fc23db91e6ca0a
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T100000
+DTSTAMP;VALUE=DATE-TIME:20201026T060000Z
+UID:4c35ac220d4658bb49b605db7295db66
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T114000
+DTSTAMP;VALUE=DATE-TIME:20201026T074000Z
+UID:1f57efd0d374b1a422fb97ad763e8640
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T132000
+DTSTAMP;VALUE=DATE-TIME:20201026T092000Z
+UID:53db6175526cc5b9950c21ec6cd3a99d
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201026T171000
+DTSTAMP;VALUE=DATE-TIME:20201026T131000Z
+UID:a550dde70ad6330fef78dbe96686cf04
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201027T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201027T114000
+DTSTAMP;VALUE=DATE-TIME:20201027T074000Z
+UID:a16acde3622c1ec6bc9f696812743635
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201027T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201027T132000
+DTSTAMP;VALUE=DATE-TIME:20201027T092000Z
+UID:4a04f1d63c16f9ebc32b30419ce78d5a
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T100000
+DTSTAMP;VALUE=DATE-TIME:20201028T060000Z
+UID:6bcda3c95ecd39229ccb8c4150d227bc
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T114000
+DTSTAMP;VALUE=DATE-TIME:20201028T074000Z
+UID:1cf067d5a066670ef9502b85ab22a226
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T132000
+DTSTAMP;VALUE=DATE-TIME:20201028T092000Z
+UID:3aa751a7a2cf429b8d457a269a635de8
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201028T171000
+DTSTAMP;VALUE=DATE-TIME:20201028T131000Z
+UID:ea6a6c9e8562c964e71ecd2fe1fb3e4a
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T100000
+DTSTAMP;VALUE=DATE-TIME:20201029T060000Z
+UID:e16f0a3e58b41986630a841ce9696d46
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T114000
+DTSTAMP;VALUE=DATE-TIME:20201029T074000Z
+UID:f7d70f76058ce2b321bdc1f85a1ea316
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T114000
+DTSTAMP;VALUE=DATE-TIME:20201029T074000Z
+UID:b1ec890d329b2c142d0438c08a6c4297
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T114000
+DTSTAMP;VALUE=DATE-TIME:20201029T074000Z
+UID:fabaf0e0d15878cc7cf8e0728b586580
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T114000
+DTSTAMP;VALUE=DATE-TIME:20201029T074000Z
+UID:1aab527c4991ae5697e6e60638a51cde
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201029T114000
+DTSTAMP;VALUE=DATE-TIME:20201029T074000Z
+UID:96b8edd15828e7f2269dc097ae648adb
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T100000
+DTSTAMP;VALUE=DATE-TIME:20201030T060000Z
+UID:e760f5c3a01270f4b791c2e109fb5432
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T114000
+DTSTAMP;VALUE=DATE-TIME:20201030T074000Z
+UID:4d0898ddafb12d685e0858a23f5fa282
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T114000
+DTSTAMP;VALUE=DATE-TIME:20201030T074000Z
+UID:35e3f9f898aef2f68ca4485dc552c13d
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T114000
+DTSTAMP;VALUE=DATE-TIME:20201030T074000Z
+UID:dca6cdaeadce3f3360284578eb4556d6
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T114000
+DTSTAMP;VALUE=DATE-TIME:20201030T074000Z
+UID:5593d7f2fbdc7a2cea69622f19d35e5c
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201030T132000
+DTSTAMP;VALUE=DATE-TIME:20201030T092000Z
+UID:be7e333ffbea315c8a6f37d932b79c51
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T100000
+DTSTAMP;VALUE=DATE-TIME:20201102T060000Z
+UID:bdca2b743ca9075891e124df4f8b3ef3
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T114000
+DTSTAMP;VALUE=DATE-TIME:20201102T074000Z
+UID:dbb5f321241fcfdadb06efcf18decd3f
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T132000
+DTSTAMP;VALUE=DATE-TIME:20201102T092000Z
+UID:2715daa33f7269987cc77d8a9ff537f4
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201102T171000
+DTSTAMP;VALUE=DATE-TIME:20201102T131000Z
+UID:18dabe40c1ad5c73e0a46cfb8f72bf99
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201103T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201103T100000
+DTSTAMP;VALUE=DATE-TIME:20201103T060000Z
+UID:cb6ed2101fb6f98623eef4d1c608b6c7
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201103T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201103T114000
+DTSTAMP;VALUE=DATE-TIME:20201103T074000Z
+UID:7e183fbb35699ac62375d5c3118f65f9
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201103T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201103T132000
+DTSTAMP;VALUE=DATE-TIME:20201103T092000Z
+UID:bd0108340e279669cadc726564782c68
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T100000
+DTSTAMP;VALUE=DATE-TIME:20201105T060000Z
+UID:2b726a248a4751d8882cd901bf5ffea3
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T114000
+DTSTAMP;VALUE=DATE-TIME:20201105T074000Z
+UID:38dbc61ae3f3d2614a3c9fe14de4590c
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T114000
+DTSTAMP;VALUE=DATE-TIME:20201105T074000Z
+UID:d89939f6110dc8a49bd88abf6fda820f
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T114000
+DTSTAMP;VALUE=DATE-TIME:20201105T074000Z
+UID:f245e09f502d41963f9ad24d43d8bf74
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T114000
+DTSTAMP;VALUE=DATE-TIME:20201105T074000Z
+UID:22c277672b6e7dfbc7559ec1eeeca8c1
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T114000
+DTSTAMP;VALUE=DATE-TIME:20201105T074000Z
+UID:48e57430ce1698e97731ea95211f3b69
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201105T132000
+DTSTAMP;VALUE=DATE-TIME:20201105T092000Z
+UID:ad3136e1ca315e7012ce3752bb4a8b21
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T100000
+DTSTAMP;VALUE=DATE-TIME:20201106T060000Z
+UID:606fea5fb7903afcdfaa924c5db10034
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T114000
+DTSTAMP;VALUE=DATE-TIME:20201106T074000Z
+UID:e63d67b619b5d8a2423efaea639821f8
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T114000
+DTSTAMP;VALUE=DATE-TIME:20201106T074000Z
+UID:5828fff397e12ab9c65247cd30c02336
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T114000
+DTSTAMP;VALUE=DATE-TIME:20201106T074000Z
+UID:530b10bbac3d1add11cd50f997f34d48
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T114000
+DTSTAMP;VALUE=DATE-TIME:20201106T074000Z
+UID:61ccecc5abf6236c5296048cdef1477c
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201106T132000
+DTSTAMP;VALUE=DATE-TIME:20201106T092000Z
+UID:b4f152f92124537801671770a42ce3f8
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T100000
+DTSTAMP;VALUE=DATE-TIME:20201109T060000Z
+UID:1f112d6847abad871b7f7660c32552ba
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T114000
+DTSTAMP;VALUE=DATE-TIME:20201109T074000Z
+UID:5b6ab0c851cdfb23151e939427f46049
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T132000
+DTSTAMP;VALUE=DATE-TIME:20201109T092000Z
+UID:6d998ff9eb073a5cc839245ee3b17aa4
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201109T171000
+DTSTAMP;VALUE=DATE-TIME:20201109T131000Z
+UID:013455bc6a4230cec31a92b0196cb22d
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201110T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201110T100000
+DTSTAMP;VALUE=DATE-TIME:20201110T060000Z
+UID:d06337de31f1a52a2c630a4344d8274f
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:611\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201110T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201110T114000
+DTSTAMP;VALUE=DATE-TIME:20201110T074000Z
+UID:86b0d13aa8dc7e98793a9cb4b0ffb674
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201110T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201110T132000
+DTSTAMP;VALUE=DATE-TIME:20201110T092000Z
+UID:af525c516bf0f024dc86cb06b58c8508
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T100000
+DTSTAMP;VALUE=DATE-TIME:20201111T060000Z
+UID:41e08352193894ae3078f5b4d4d947ef
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T114000
+DTSTAMP;VALUE=DATE-TIME:20201111T074000Z
+UID:11a575dafac67359e512205b2fdbc760
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T132000
+DTSTAMP;VALUE=DATE-TIME:20201111T092000Z
+UID:650e33e6122f5b11ddad279271915865
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201111T171000
+DTSTAMP;VALUE=DATE-TIME:20201111T131000Z
+UID:f1b4b0a3fdbad7f7eb1de1cebb1cd724
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T100000
+DTSTAMP;VALUE=DATE-TIME:20201112T060000Z
+UID:1b7aebb6797154cc04e21e6c68edc51b
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T114000
+DTSTAMP;VALUE=DATE-TIME:20201112T074000Z
+UID:52ccba208ea092169f853de707344432
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T114000
+DTSTAMP;VALUE=DATE-TIME:20201112T074000Z
+UID:0643e15b5e1f15901ab8d028041ade2b
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T114000
+DTSTAMP;VALUE=DATE-TIME:20201112T074000Z
+UID:e0786c154ac38c76666a6682cbb48c68
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T114000
+DTSTAMP;VALUE=DATE-TIME:20201112T074000Z
+UID:8a646933d817d118c36c686953d8d66a
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201112T114000
+DTSTAMP;VALUE=DATE-TIME:20201112T074000Z
+UID:7fa13587b466d0e1ac2265cba2850034
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T100000
+DTSTAMP;VALUE=DATE-TIME:20201113T060000Z
+UID:bc38fc4afe2d587d2bc1a3789136f660
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T114000
+DTSTAMP;VALUE=DATE-TIME:20201113T074000Z
+UID:78d8c47660ece4460de69c3988f6a752
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T114000
+DTSTAMP;VALUE=DATE-TIME:20201113T074000Z
+UID:7b397d91d37332f105875a65191b0200
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T114000
+DTSTAMP;VALUE=DATE-TIME:20201113T074000Z
+UID:3639b66ac2c75cec0f1014ea023df4c4
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T114000
+DTSTAMP;VALUE=DATE-TIME:20201113T074000Z
+UID:f07172a5737a0c46add6a2f721412965
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201113T132000
+DTSTAMP;VALUE=DATE-TIME:20201113T092000Z
+UID:7395692d628e1667d229122f50966787
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T100000
+DTSTAMP;VALUE=DATE-TIME:20201116T060000Z
+UID:4b31363ebd03edd2c5fc625e460fd27f
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T114000
+DTSTAMP;VALUE=DATE-TIME:20201116T074000Z
+UID:9fcd603a84030f95895648c023dcb90f
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T132000
+DTSTAMP;VALUE=DATE-TIME:20201116T092000Z
+UID:282a72791765869bc15e8ba60aff4c91
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201116T171000
+DTSTAMP;VALUE=DATE-TIME:20201116T131000Z
+UID:3fb9ed180ee9fe1977ca1d5da4122926
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T100000
+DTSTAMP;VALUE=DATE-TIME:20201117T060000Z
+UID:9c8f038648ee37f421d1d5f7a6a8cc65
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T114000
+DTSTAMP;VALUE=DATE-TIME:20201117T074000Z
+UID:c9b2146897fc52106f92af6acf305fb9
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T132000
+DTSTAMP;VALUE=DATE-TIME:20201117T092000Z
+UID:bfcdf1964c1d6fa35eebef46eb337775
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T140000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201117T153000
+DTSTAMP;VALUE=DATE-TIME:20201117T113000Z
+UID:49199fef7b7bd30062bf3b9e3080c02b
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:608\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T100000
+DTSTAMP;VALUE=DATE-TIME:20201118T060000Z
+UID:763a1542483e268dbb1720d24a00be0b
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T114000
+DTSTAMP;VALUE=DATE-TIME:20201118T074000Z
+UID:404b45826733a23785956affe5478d31
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T132000
+DTSTAMP;VALUE=DATE-TIME:20201118T092000Z
+UID:8e3c536ec6b57a0fc9def3be87cebe5b
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201118T171000
+DTSTAMP;VALUE=DATE-TIME:20201118T131000Z
+UID:5082d67d8b2cb7f6751ea56f8743620d
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T100000
+DTSTAMP;VALUE=DATE-TIME:20201119T060000Z
+UID:b9a51d6d6edcc3ba8392f6834fa355a5
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T114000
+DTSTAMP;VALUE=DATE-TIME:20201119T074000Z
+UID:61ebacfbe52ab884f9c079c17bec17a0
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T114000
+DTSTAMP;VALUE=DATE-TIME:20201119T074000Z
+UID:ad62b4dc46fdf3b15066706699357329
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T114000
+DTSTAMP;VALUE=DATE-TIME:20201119T074000Z
+UID:6f74d73839d06375443d57e0dd7a7376
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T114000
+DTSTAMP;VALUE=DATE-TIME:20201119T074000Z
+UID:9114803c52d864cc6b99ecabb4b68593
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T114000
+DTSTAMP;VALUE=DATE-TIME:20201119T074000Z
+UID:810e68d7ea56a066477fbac80a156f1d
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T132000
+DTSTAMP;VALUE=DATE-TIME:20201119T092000Z
+UID:393735f08144a1efa1990f6250b69610
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в специальность
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T140000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201119T153000
+DTSTAMP;VALUE=DATE-TIME:20201119T113000Z
+UID:0b784c3acea4d25c4531131fe9616877
+DESCRIPTION:Семинар\nПреподаватель: Посашков 
+ Сергей Александрович\nГруппы: ПМ20-4\n
+LOCATION:501\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T100000
+DTSTAMP;VALUE=DATE-TIME:20201120T060000Z
+UID:1896f57d23e08da82017f809a61038a4
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T114000
+DTSTAMP;VALUE=DATE-TIME:20201120T074000Z
+UID:8a8a5bf3e6f52366836277261c9ff654
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T114000
+DTSTAMP;VALUE=DATE-TIME:20201120T074000Z
+UID:f55f7389c83c223938b0c691a49e4a1f
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T114000
+DTSTAMP;VALUE=DATE-TIME:20201120T074000Z
+UID:99df1bd8684dc6cdeceaf86d8d0a9f23
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T114000
+DTSTAMP;VALUE=DATE-TIME:20201120T074000Z
+UID:42bfc7da682fabc4c1165c8694f20448
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201120T132000
+DTSTAMP;VALUE=DATE-TIME:20201120T092000Z
+UID:dfc366e078990ec5b066fed6b59c3829
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T100000
+DTSTAMP;VALUE=DATE-TIME:20201123T060000Z
+UID:f1f5f35816b74de52c2d7f4020a74c9c
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T114000
+DTSTAMP;VALUE=DATE-TIME:20201123T074000Z
+UID:99e3c14248e593fac29763e40450cc54
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T132000
+DTSTAMP;VALUE=DATE-TIME:20201123T092000Z
+UID:447b316850270341b1f0fc9ddae87c38
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201123T171000
+DTSTAMP;VALUE=DATE-TIME:20201123T131000Z
+UID:adf82584e4122a85a50d232c063a2fcb
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201124T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201124T114000
+DTSTAMP;VALUE=DATE-TIME:20201124T074000Z
+UID:81f10977722429dd94be1278aba53cba
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201124T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201124T132000
+DTSTAMP;VALUE=DATE-TIME:20201124T092000Z
+UID:a4664e705cb0d78b46387c7a763aa88e
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T100000
+DTSTAMP;VALUE=DATE-TIME:20201125T060000Z
+UID:43feccbaf97f9934f5176817a68c9eb6
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T114000
+DTSTAMP;VALUE=DATE-TIME:20201125T074000Z
+UID:5e626946c0a54b32752f15b0d695b15c
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T132000
+DTSTAMP;VALUE=DATE-TIME:20201125T092000Z
+UID:f38d392fa80cc9b98709c0a0cf5530f2
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201125T171000
+DTSTAMP;VALUE=DATE-TIME:20201125T131000Z
+UID:12daa52f0ff8e8aa9b1df8baccfe89f3
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T100000
+DTSTAMP;VALUE=DATE-TIME:20201126T060000Z
+UID:bf1a25f759a651cc2f42e44eb6e6d39b
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T114000
+DTSTAMP;VALUE=DATE-TIME:20201126T074000Z
+UID:76e5f2bac76009e29251f1c277f87c84
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T114000
+DTSTAMP;VALUE=DATE-TIME:20201126T074000Z
+UID:ac48609ab2596a57720d10fdd40bf745
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T114000
+DTSTAMP;VALUE=DATE-TIME:20201126T074000Z
+UID:ca37767948b3f051606fec3f5aefbe3e
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T114000
+DTSTAMP;VALUE=DATE-TIME:20201126T074000Z
+UID:2cf6d13108208b12ecfe23d38931c766
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201126T114000
+DTSTAMP;VALUE=DATE-TIME:20201126T074000Z
+UID:494e53e61794ba4371567658759c0b9d
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T100000
+DTSTAMP;VALUE=DATE-TIME:20201127T060000Z
+UID:c6b14ea660ef86f84f6627e6f4d1218a
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T114000
+DTSTAMP;VALUE=DATE-TIME:20201127T074000Z
+UID:da71f283a14f1dcde3ed81b05a709c54
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T114000
+DTSTAMP;VALUE=DATE-TIME:20201127T074000Z
+UID:ea509440606cce45d7d41fc2e4e2bcfb
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T114000
+DTSTAMP;VALUE=DATE-TIME:20201127T074000Z
+UID:5fc629d1f44ff5af0ebb0b6da7f52126
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T114000
+DTSTAMP;VALUE=DATE-TIME:20201127T074000Z
+UID:14e5b3b6252aa90d3be8589b167b014b
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201127T132000
+DTSTAMP;VALUE=DATE-TIME:20201127T092000Z
+UID:e66e6b5e7bed64fe62246c285faa29be
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T100000
+DTSTAMP;VALUE=DATE-TIME:20201130T060000Z
+UID:6d0ab012837a204ed8dee8953f6930ee
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T114000
+DTSTAMP;VALUE=DATE-TIME:20201130T074000Z
+UID:d5a98042de32cc8697ccafe7c132c26b
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T132000
+DTSTAMP;VALUE=DATE-TIME:20201130T092000Z
+UID:b559fb00be5aca0174f8c9f9dfe4c89f
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201130T171000
+DTSTAMP;VALUE=DATE-TIME:20201130T131000Z
+UID:c967dc649a8f0428a366cf5d6c6ee579
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201201T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201201T100000
+DTSTAMP;VALUE=DATE-TIME:20201201T060000Z
+UID:72c45bdb936a4d2284107651e5017289
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201201T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201201T114000
+DTSTAMP;VALUE=DATE-TIME:20201201T074000Z
+UID:e5ccb6df7f8bddaa3159a757a99fab4e
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201201T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201201T132000
+DTSTAMP;VALUE=DATE-TIME:20201201T092000Z
+UID:8b4fd4574340a5c8bc9bf631b2a7c426
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T100000
+DTSTAMP;VALUE=DATE-TIME:20201202T060000Z
+UID:1e424f6f71a3001ac283aef357a44b44
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T114000
+DTSTAMP;VALUE=DATE-TIME:20201202T074000Z
+UID:dd4b7e3937442fb099718d0c5ea417f1
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T132000
+DTSTAMP;VALUE=DATE-TIME:20201202T092000Z
+UID:6eb92433c6c3ed21bd67cd2e76ec9dfe
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201202T171000
+DTSTAMP;VALUE=DATE-TIME:20201202T131000Z
+UID:e4d082debd4191d80885d9293372677c
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T100000
+DTSTAMP;VALUE=DATE-TIME:20201203T060000Z
+UID:c697257abefa7dfc16a8cd96a6428076
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T114000
+DTSTAMP;VALUE=DATE-TIME:20201203T074000Z
+UID:f49aaf964a8f9650e04300dcee0686af
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T114000
+DTSTAMP;VALUE=DATE-TIME:20201203T074000Z
+UID:dcc84d5dc5fa8e05d6b530dff5733f41
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T114000
+DTSTAMP;VALUE=DATE-TIME:20201203T074000Z
+UID:a2d3792a2b1ca75b9fb4b0ad47285ff8
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T114000
+DTSTAMP;VALUE=DATE-TIME:20201203T074000Z
+UID:decefaf2bafd348b59a2f8d7a836c24d
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201203T114000
+DTSTAMP;VALUE=DATE-TIME:20201203T074000Z
+UID:ca38875f5cdbe38dfa1836ac8b502cea
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T100000
+DTSTAMP;VALUE=DATE-TIME:20201204T060000Z
+UID:34d2c7c11d50a163d8b299b858133005
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T114000
+DTSTAMP;VALUE=DATE-TIME:20201204T074000Z
+UID:edbfe7c3501b1168deefd6e7daa90898
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T114000
+DTSTAMP;VALUE=DATE-TIME:20201204T074000Z
+UID:20b739b7208b70e41ad0beed4bf12096
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T114000
+DTSTAMP;VALUE=DATE-TIME:20201204T074000Z
+UID:61c43bab08bd021a50168d12f0467b0e
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T114000
+DTSTAMP;VALUE=DATE-TIME:20201204T074000Z
+UID:46629b85a747f5e2faadf6e4270b01d5
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201204T132000
+DTSTAMP;VALUE=DATE-TIME:20201204T092000Z
+UID:adc7d53b4e22b77f329cdae12144b66b
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T100000
+DTSTAMP;VALUE=DATE-TIME:20201207T060000Z
+UID:510b584fb08aa9cbf0464bb6ba2fdc1b
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T114000
+DTSTAMP;VALUE=DATE-TIME:20201207T074000Z
+UID:e997f9ba0f64bf862715155dd6a13b52
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T132000
+DTSTAMP;VALUE=DATE-TIME:20201207T092000Z
+UID:26b5724a1f1327f3184c2bdd975f79d9
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201207T171000
+DTSTAMP;VALUE=DATE-TIME:20201207T131000Z
+UID:73cf5e1462051d68d66e3c6254988b56
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201208T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201208T114000
+DTSTAMP;VALUE=DATE-TIME:20201208T074000Z
+UID:297d219f06aefdf862c80ae5e1234dfa
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201208T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201208T132000
+DTSTAMP;VALUE=DATE-TIME:20201208T092000Z
+UID:16819aeda3a4711d1660b34a219ee0fb
+DESCRIPTION:Лекция\nПреподаватель: Рябчикова 
+ Любовь Николаевна\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T100000
+DTSTAMP;VALUE=DATE-TIME:20201209T060000Z
+UID:b9edfda74cd881f649a14a7ebc8c6f1b
+DESCRIPTION:Лекция\nПреподаватель: Каверина В
+ алерия Константиновна\nГруппы: ПМ20-4\, ПМ20
+ -5\, ПМ20-6\n
+LOCATION:304\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T114000
+DTSTAMP;VALUE=DATE-TIME:20201209T074000Z
+UID:ef944629c7604264784f83e1b2099459
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T132000
+DTSTAMP;VALUE=DATE-TIME:20201209T092000Z
+UID:25c61f9f33a67dcb3e7db0a683a7209c
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201209T171000
+DTSTAMP;VALUE=DATE-TIME:20201209T131000Z
+UID:cdb49788a6e8a3afd19faea4fbe30ea5
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T100000
+DTSTAMP;VALUE=DATE-TIME:20201210T060000Z
+UID:45b581ea6163c621b95310652e42dcc8
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T114000
+DTSTAMP;VALUE=DATE-TIME:20201210T074000Z
+UID:cb5114999a300ae462dab734251ba0bf
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T114000
+DTSTAMP;VALUE=DATE-TIME:20201210T074000Z
+UID:e56838bc848b4bfbfb98c9c7c41f08e0
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T114000
+DTSTAMP;VALUE=DATE-TIME:20201210T074000Z
+UID:a5cf57caf2a6750df1ecb672bc771d45
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T114000
+DTSTAMP;VALUE=DATE-TIME:20201210T074000Z
+UID:260a72b10a89bffd9d015b79134d6cfe
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201210T114000
+DTSTAMP;VALUE=DATE-TIME:20201210T074000Z
+UID:991dc501cae7f909ad7c296d144fd08b
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T100000
+DTSTAMP;VALUE=DATE-TIME:20201211T060000Z
+UID:47c994858a684ef0f093b3fdbfb68989
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T114000
+DTSTAMP;VALUE=DATE-TIME:20201211T074000Z
+UID:52365495ae9ea2ab1923425110e51d58
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T114000
+DTSTAMP;VALUE=DATE-TIME:20201211T074000Z
+UID:a9c8226c199dbe1f08b501f565c54384
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T114000
+DTSTAMP;VALUE=DATE-TIME:20201211T074000Z
+UID:3e028378ebba53bd74b2f16f0f7bf976
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T114000
+DTSTAMP;VALUE=DATE-TIME:20201211T074000Z
+UID:c13441bbfa46d1d8cadb872440f8ec48
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201211T132000
+DTSTAMP;VALUE=DATE-TIME:20201211T092000Z
+UID:53d6656dfc97758e6b821089e6a4109e
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T100000
+DTSTAMP;VALUE=DATE-TIME:20201214T060000Z
+UID:fbd53e24ed65f328a104131e8671a98d
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T114000
+DTSTAMP;VALUE=DATE-TIME:20201214T074000Z
+UID:41c90aafca6f6f1f20ef0de01aac3628
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T132000
+DTSTAMP;VALUE=DATE-TIME:20201214T092000Z
+UID:5afdcf224f85e29999b73286d9134bf4
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201214T171000
+DTSTAMP;VALUE=DATE-TIME:20201214T131000Z
+UID:fadad7cc4e9c418d5a4059555b1948fd
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201215T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201215T100000
+DTSTAMP;VALUE=DATE-TIME:20201215T060000Z
+UID:e76545680d80474307da8f42833aa09e
+DESCRIPTION:Лекция\nПреподаватель: Седых Нико
+ лай Николаевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\
+ n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201215T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201215T114000
+DTSTAMP;VALUE=DATE-TIME:20201215T074000Z
+UID:736fb9fa866f6d05691231d3c0b51fff
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201215T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201215T132000
+DTSTAMP;VALUE=DATE-TIME:20201215T092000Z
+UID:3b5b5733dbe9e1d1e60544aa779407fa
+DESCRIPTION:Лекция\nПреподаватель: Терновсков
+  Владимир Борисович\nГруппы: ПМ20-4\, ПМ20-5\, 
+ ПМ20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T100000
+DTSTAMP;VALUE=DATE-TIME:20201216T060000Z
+UID:0a5bf70800c26d8ab5b6bf29acab9bcf
+DESCRIPTION:Лекция\nПреподаватель: Макрушин С
+ ергей Вячеславович\nГруппы: ПИ20-1-6\, ПМ20-1-6
+ \n
+LOCATION:Актовый зал\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T114000
+DTSTAMP;VALUE=DATE-TIME:20201216T074000Z
+UID:71080d70611d0a285eeecdafc5e81433
+DESCRIPTION:Семинар\nПреподаватель: Терновско
+ в Владимир Борисович\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T132000
+DTSTAMP;VALUE=DATE-TIME:20201216T092000Z
+UID:3392e975ccab06565335bf76f48db30c
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201216T171000
+DTSTAMP;VALUE=DATE-TIME:20201216T131000Z
+UID:6a972276630e6b2a443631c038db83ed
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T100000
+DTSTAMP;VALUE=DATE-TIME:20201217T060000Z
+UID:ff95925228a664fee10724e8459b00df
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T114000
+DTSTAMP;VALUE=DATE-TIME:20201217T074000Z
+UID:6711826f58a09c44b3798172786b4bf7
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T114000
+DTSTAMP;VALUE=DATE-TIME:20201217T074000Z
+UID:b70970256f1fa8ac72f5c4b107d2afde
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T114000
+DTSTAMP;VALUE=DATE-TIME:20201217T074000Z
+UID:40fda4fa6d9b76e74177e7c489c51bde
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T114000
+DTSTAMP;VALUE=DATE-TIME:20201217T074000Z
+UID:01976ae55b8e7e50665e70b8aa5948f6
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201217T114000
+DTSTAMP;VALUE=DATE-TIME:20201217T074000Z
+UID:a331c3a8703f930f66298cd63b2a0db0
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T100000
+DTSTAMP;VALUE=DATE-TIME:20201218T060000Z
+UID:98dd6ac26c9f1c366e29f0d16b112289
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T114000
+DTSTAMP;VALUE=DATE-TIME:20201218T074000Z
+UID:f95a80e4f2226c6473e33ea889a6020e
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T114000
+DTSTAMP;VALUE=DATE-TIME:20201218T074000Z
+UID:ebb37fbf0773b5df72ae4311c81b1055
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T114000
+DTSTAMP;VALUE=DATE-TIME:20201218T074000Z
+UID:274a0ea6a9715aa55aa4b24587506c18
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T114000
+DTSTAMP;VALUE=DATE-TIME:20201218T074000Z
+UID:6fb5b120a697b1fbf699fd2ceff9afc6
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201218T132000
+DTSTAMP;VALUE=DATE-TIME:20201218T092000Z
+UID:3fc8d9bc724f190c862feaf12d2b3c6e
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T100000
+DTSTAMP;VALUE=DATE-TIME:20201221T060000Z
+UID:a4af47e59f56ee75190874f90808adbd
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T114000
+DTSTAMP;VALUE=DATE-TIME:20201221T074000Z
+UID:a1d8eb8061c8bc9577dc64b8a5bc90fc
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T132000
+DTSTAMP;VALUE=DATE-TIME:20201221T092000Z
+UID:a349afc3132adbdfd5ccf65e7a972178
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201221T171000
+DTSTAMP;VALUE=DATE-TIME:20201221T131000Z
+UID:64acc914f6ba0ec38268b60d9a868898
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201222T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201222T114000
+DTSTAMP;VALUE=DATE-TIME:20201222T074000Z
+UID:b42040ab351fa4a96ca49d338beff159
+DESCRIPTION:Семинар\nПреподаватель: Каверина 
+ Валерия Константиновна\nГруппы: ПМ20-4\n
+LOCATION:704\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экономическая политология
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201223T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201223T114000
+DTSTAMP;VALUE=DATE-TIME:20201223T074000Z
+UID:c006a1de671fddd501aff235d2ac91fe
+DESCRIPTION:Семинар\nПреподаватель: Седых Ник
+ олай Николаевич\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201223T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201223T132000
+DTSTAMP;VALUE=DATE-TIME:20201223T092000Z
+UID:4dafed34aa23f68ad68c0b24a982b844
+DESCRIPTION:Семинар\nПреподаватель: Рябчикова
+  Любовь Николаевна\nГруппы: ПМ20-4\n
+LOCATION:601\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201223T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201223T171000
+DTSTAMP;VALUE=DATE-TIME:20201223T131000Z
+UID:61c91d006a47ea206a4ae70d1f834f28
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T100000
+DTSTAMP;VALUE=DATE-TIME:20201224T060000Z
+UID:8d3394ddd0e7d79deada7da9361ed0cc
+DESCRIPTION:Лекция\nПреподаватель: Щиголев Вл
+ адимир Викторович\nГруппы: ПМ20-4\, ПМ20-5\, П
+ М20-6\n
+LOCATION:502\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T114000
+DTSTAMP;VALUE=DATE-TIME:20201224T074000Z
+UID:c88e5053ef7feed285dc649dcdbba897
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:710\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T114000
+DTSTAMP;VALUE=DATE-TIME:20201224T074000Z
+UID:a60fe13f58076e72b2e842db851e35b1
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T114000
+DTSTAMP;VALUE=DATE-TIME:20201224T074000Z
+UID:6ba1cdc6854dc35f4ec995c317fef6eb
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:610\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T114000
+DTSTAMP;VALUE=DATE-TIME:20201224T074000Z
+UID:6d8fc4762be7bbb5b3d58c81f72522d6
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:606\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201224T114000
+DTSTAMP;VALUE=DATE-TIME:20201224T074000Z
+UID:0cf373ff7e9a89bd29e39ab378b25a09
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:708\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных в язык
+ е Python
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T100000
+DTSTAMP;VALUE=DATE-TIME:20201225T060000Z
+UID:34005025c4305b151a0e314cf3a70493
+DESCRIPTION:Семинар\nПреподаватель: Андриянов
+  Никита Андреевич\nГруппы: ПМ20-4\n
+LOCATION:706(кк)\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T114000
+DTSTAMP;VALUE=DATE-TIME:20201225T074000Z
+UID:9b3a4b76b8cf3ac255411a49724a694b
+DESCRIPTION:Семинар\nПреподаватель: Якутина М
+ арина Викторовна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:701\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T114000
+DTSTAMP;VALUE=DATE-TIME:20201225T074000Z
+UID:32dec0087204829f4e587d7c45a66007
+DESCRIPTION:Семинар\nПреподаватель: Земскова 
+ Анастасия Николаевна\nГруппы: ПМ20-4\, ПМ20-5
+ \, ПМ20-6\n
+LOCATION:702\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T114000
+DTSTAMP;VALUE=DATE-TIME:20201225T074000Z
+UID:2664d0968d96ca6916268196db89d1a2
+DESCRIPTION:Семинар\nПреподаватель: Усманова 
+ Тургунай Алижановна\nГруппы: ПМ20-4\, ПМ20-5\,
+  ПМ20-6\n
+LOCATION:511\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T114000
+DTSTAMP;VALUE=DATE-TIME:20201225T074000Z
+UID:77da6060dfd45843746d81fcf5a63407
+DESCRIPTION:Семинар\nПреподаватель: Дьяконова
+  Станислава Аркадьевна\nГруппы: ПМ20-4\, ПМ2
+ 0-5\, ПМ20-6\n
+LOCATION:506\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201225T132000
+DTSTAMP;VALUE=DATE-TIME:20201225T092000Z
+UID:f178aabfb56d46cdfb3bf6df3de41685
+DESCRIPTION:Лекция\nПреподаватель: Волкова Ел
+ ена Сергеевна\nГруппы: ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:602\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T083000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T100000
+DTSTAMP;VALUE=DATE-TIME:20201228T060000Z
+UID:d08d79e6dd9c905d5a89bd7c058fcf2d
+DESCRIPTION:Семинар\nПреподаватель: Амосов Ни
+ колай Васильевич\nГруппы: ПМ20-4\, ПМ20-5\, ПМ2
+ 0-6\n
+LOCATION:403\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгебра и геометрия
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T101000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T114000
+DTSTAMP;VALUE=DATE-TIME:20201228T074000Z
+UID:18f1d461ff52d1089da93f793b661ad2
+DESCRIPTION:Семинар\nПреподаватель: Романова 
+ Екатерина Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T115000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T132000
+DTSTAMP;VALUE=DATE-TIME:20201228T092000Z
+UID:3532ca2bfbd3157169a9b274ed64f111
+DESCRIPTION:Семинар\nПреподаватель: Петрова М
+ ария Владимировна\nГруппы: ПМ20-4\n
+LOCATION:411\, ул. Щербаковская\, 38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт
+DTSTART;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T154000
+DTEND;TZID=Europe/Moscow;VALUE=DATE-TIME:20201228T171000
+DTSTAMP;VALUE=DATE-TIME:20201228T131000Z
+UID:e040c9bf43678b85f9103a3d4ba58cfc
+DESCRIPTION:Лекция\nПреподаватель: Галочкин П
+ авел Владимирович\nГруппы: ПМ20-1\, ПМ20-2\, П
+ М20-3\, ПМ20-4\, ПМ20-5\, ПМ20-6\n
+LOCATION:Спортзал\, ул. Касаткина 15\, строение
+  1\; 17\, строение 1
+END:VEVENT
+END:VCALENDAR

@@ -1,4 +1,3 @@
-from django.contrib.auth.models import User
 from rest_framework import viewsets, views, mixins, generics
 from rest_framework.response import Response
 from .models import Profile, HomeTask, Group
@@ -22,12 +21,12 @@ def get_calendar():
                 data_array = component.get("description").split('\n')
 
                 lesson = {
-                                'subject': str(component.get("summary")),
-                                'type': data_array[0],
-                                'teacher': data_array[1],
-                                'place': str(component.get("location")),
-                                'time': str(dt_start[3]) + ':' + str(dt_start[4]) +
-                                         '-' + str(dt_end[3]) + ':' + str(dt_end[4])
+                    'subject': str(component.get("summary")),
+                    'type': data_array[0],
+                    'teacher': data_array[1],
+                    'place': str(component.get("location")),
+                    'time': str(dt_start[3]) + ':' + str(dt_start[4]) + '-' +
+                    str(dt_end[3]) + ':' + str(dt_end[4])
                 }
 
                 if not current_key or str(dt_start[2]) + '.' + str(dt_start[1]) != current_key:
@@ -47,9 +46,9 @@ class ProfileViewSet(viewsets.ModelViewSet):
     serializer_class = ProfileSerializer
 
 
-class ProfileByEmail(views.APIView):
+class ProfileByNameAndGroup(views.APIView):
     def get(self, request):
-        profile = Profile.objects.get(user=User.objects.get(username=request.GET['email']))
+        profile = Profile.objects.get(func=lambda user: user.name == request['name'] and user.group == request['group'])
         serializer = ProfileSerializer(profile)
         return Response(serializer.data)
 
