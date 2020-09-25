@@ -1,5 +1,4 @@
 from django.db import models
-from django.contrib.auth.models import User
 
 
 class Group(models.Model):
@@ -18,10 +17,7 @@ class Group(models.Model):
 
 
 class Profile(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
-    photo = models.ImageField()
     name = models.CharField(max_length=128)
-    faculty = models.CharField(max_length=32)
     group = models.ForeignKey(Group, on_delete=models.SET_NULL)
     is_monitor = models.BooleanField(default=False)
 
