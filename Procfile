@@ -1,0 +1,1 @@
+web: gunicorn fa_app_back.wsgi
