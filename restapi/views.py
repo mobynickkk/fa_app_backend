@@ -1,7 +1,8 @@
 from django.http import HttpResponse
+from django.core.exceptions import ObjectDoesNotExist
 from rest_framework import viewsets, views, mixins, generics
 from rest_framework.response import Response
-from .models import Profile, HomeTask, Group
+from .models import Profile, HomeTask
 from .serializers import ProfileSerializer, HomeTaskSerializer
 from icalendar import Calendar
 from datetime import datetime, timezone
@@ -49,16 +50,23 @@ class ProfileViewSet(viewsets.ModelViewSet):
 
 class ProfileByNameAndGroup(views.APIView):
     def get(self, request):
-        profile = Profile.objects.get(hash=request.GET['hash'])
-        serializer = ProfileSerializer(profile)
-        return Response(serializer.data)
+        try:
+            profile = Profile.objects.get(hash=request.GET['hash'])
+            serializer = ProfileSerializer(profile)
+            return Response(serializer.data)
+        except ObjectDoesNotExist:
+            return HttpResponse(404)
 
 
 class HomeTaskByProfile(viewsets.ModelViewSet):
-    def get(self, request):
-        homework = HomeTask.objects.filter(profile__hash=request.GET['hash'])
-        serializer = ProfileSerializer(homework)
-        return Response(serializer.data)
+    serializer_class = HomeTaskSerializer
+
+    def get_queryset(self):
+        try:
+            homework = HomeTask.objects.filter(profile__hash=self.request.GET['hash'])
+            return homework
+        except ObjectDoesNotExist:
+            return HttpResponse(404)
 
 
 class HomeTaskAPI(mixins.CreateModelMixin, mixins.RetrieveModelMixin, generics.GenericAPIView):
@@ -66,10 +74,13 @@ class HomeTaskAPI(mixins.CreateModelMixin, mixins.RetrieveModelMixin, generics.G
     serializer_class = HomeTaskSerializer
 
     def get(self, request, *args, **kwargs):
-        self.queryset = HomeTask.objects.get(
-            profile__hash=request.GET['hash'], pk=1
-        )
-        return self.retrieve(request, *args, **kwargs)
+        try:
+            self.queryset = HomeTask.objects.get(
+                profile__hash=request.GET['hash'], pk=1
+            )
+            return self.retrieve(request, *args, **kwargs)
+        except ObjectDoesNotExist:
+            return HttpResponse(404)
 
     def post(self, request, *args, **kwargs):
         return self.create(request, *args, **kwargs)

@@ -30,6 +30,6 @@ class Profile(models.Model):
 
 class HomeTask(models.Model):
     subject = models.CharField(max_length=128)
-    profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
+    profile = models.ForeignKey(Profile, on_delete=models.CASCADE, to_field='hash')
     deadline = models.DateField()
     task = models.TextField()

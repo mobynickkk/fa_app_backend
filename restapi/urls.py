@@ -10,5 +10,5 @@ urlpatterns = [
     path('profile/', ProfileByNameAndGroup.as_view()),
     path('hometask/', HomeTaskAPI.as_view()),
     path('schedule/', get_calendar),
-    path('homework/', HomeTaskByProfile.as_view())
+    path('homework/', HomeTaskByProfile.as_view({'get': 'list'}))
 ]
