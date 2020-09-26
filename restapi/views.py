@@ -32,16 +32,16 @@ def get_calendar(request):
                     str(dt_end[3]) + ':' + str(dt_end[4])
                 }
 
-                if not current_key or str(dt_start[2]) + '.' + str(dt_start[1]) != current_key:
+                if not current_key or str(dt_start[1]) + '/' + str(dt_start[2]) + '/' + str(dt_start[0])[2:] != current_key:
                     response.append({
-                        'key': str(dt_start[2]) + '.' + str(dt_start[1]),
+                        'key': str(dt_start[1]) + '/' + str(dt_start[2]) + '/' + str(dt_start[0])[2:],
                         'list': [lesson]
                     })
                     i += 1 if current_key else 0
-                    current_key = str(dt_start[2]) + '.' + str(dt_start[1])
+                    current_key = str(dt_start[1]) + '/' + str(dt_start[2]) + '/' + str(dt_start[0])[2:]
                 else:
                     response[i]['list'].append(lesson)
-    return HttpResponse(dumps(response[:7]).encode())
+    return HttpResponse(dumps(response[:14]).encode())
 
 
 class ProfileViewSet(viewsets.ModelViewSet):
