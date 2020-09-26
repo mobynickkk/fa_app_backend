@@ -1,3 +1,4 @@
+from django.http import HttpResponse
 from rest_framework import viewsets, views, mixins, generics
 from rest_framework.response import Response
 from .models import Profile, HomeTask, Group
@@ -6,7 +7,7 @@ from icalendar import Calendar
 from datetime import datetime, timezone
 
 
-def get_calendar():
+def get_calendar(request):
     response = []
     with open('pm_20_4.ics', 'rb') as file:
         current_key = ''
@@ -38,7 +39,7 @@ def get_calendar():
                     current_key = str(dt_start[2]) + '.' + str(dt_start[1])
                 else:
                     response[i]['list'].append(lesson)
-    return Response(response)
+    return HttpResponse(response)
 
 
 class ProfileViewSet(viewsets.ModelViewSet):
@@ -48,8 +49,15 @@ class ProfileViewSet(viewsets.ModelViewSet):
 
 class ProfileByNameAndGroup(views.APIView):
     def get(self, request):
-        profile = Profile.objects.get(func=lambda user: user.name == request['name'] and user.group == request['group'])
+        profile = Profile.objects.get(hash=request.GET['hash'])
         serializer = ProfileSerializer(profile)
+        return Response(serializer.data)
+
+
+class HomeTaskByProfile(viewsets.ModelViewSet):
+    def get(self, request):
+        homework = HomeTask.objects.filter(profile__hash=request.GET['hash'])
+        serializer = ProfileSerializer(homework)
         return Response(serializer.data)
 
 
@@ -58,8 +66,8 @@ class HomeTaskAPI(mixins.CreateModelMixin, mixins.RetrieveModelMixin, generics.G
     serializer_class = HomeTaskSerializer
 
     def get(self, request, *args, **kwargs):
-        self.queryset = HomeTask.objects.filter(
-            func=lambda task: task.group == Group.objects.get(pk=request.GET["group"])
+        self.queryset = HomeTask.objects.get(
+            profile__hash=request.GET['hash'], pk=1
         )
         return self.retrieve(request, *args, **kwargs)
 
