@@ -7,7 +7,7 @@ class ProfileSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Profile
-        fields = ['id', 'name', 'group']
+        exclude = ['hash']
 
 
 class HomeTaskSerializer(serializers.ModelSerializer):
