@@ -22,13 +22,8 @@ class Profile(models.Model):
     is_monitor = models.BooleanField(default=False)
 
 
-class Subject(models.Model):
-    name = models.CharField(max_length=32)
-    department = models.CharField(max_length=32)
-
-
 class HomeTask(models.Model):
-    subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
-    group = models.ForeignKey(Group, on_delete=models.CASCADE)
+    subject = models.CharField(max_length=128)
+    profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
     deadline = models.DateField()
     task = models.TextField()
