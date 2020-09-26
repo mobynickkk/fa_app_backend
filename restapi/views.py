@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 
 
 def get_calendar(request):
+    from json import dumps
     response = []
     with open('pm_20_4.ics', 'rb') as file:
         current_key = ''
@@ -40,7 +41,7 @@ def get_calendar(request):
                     current_key = str(dt_start[2]) + '.' + str(dt_start[1])
                 else:
                     response[i]['list'].append(lesson)
-    return HttpResponse(response)
+    return HttpResponse(dumps(response))
 
 
 class ProfileViewSet(viewsets.ModelViewSet):
