@@ -1,2 +1,6 @@
 .idea
 venv
+restapi/__pycache__
+restapi/migrations
+db.sqlite3
+fa_app_back/__pycache__
