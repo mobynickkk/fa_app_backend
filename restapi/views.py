@@ -41,7 +41,7 @@ def get_calendar(request):
                     current_key = str(dt_start[2]) + '.' + str(dt_start[1])
                 else:
                     response[i]['list'].append(lesson)
-    return HttpResponse(dumps(response))
+    return HttpResponse(dumps(response).encode())
 
 
 class ProfileViewSet(viewsets.ModelViewSet):
