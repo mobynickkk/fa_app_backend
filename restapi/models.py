@@ -5,7 +5,7 @@ class Group(models.Model):
     field = models.CharField(max_length=2)
     first_year = models.IntegerField()
     number = models.IntegerField()
-    index = models.CharField(blank=True, null=True, primary_key=True)
+    index = models.CharField(primary_key=True, max_length=6)
 
     def __str__(self):
         return self.index
@@ -18,7 +18,7 @@ class Group(models.Model):
 
 class Profile(models.Model):
     name = models.CharField(max_length=128)
-    group = models.ForeignKey(Group, on_delete=models.SET_NULL)
+    group = models.ForeignKey(Group, null=True, on_delete=models.SET_NULL)
     is_monitor = models.BooleanField(default=False)
 
 
