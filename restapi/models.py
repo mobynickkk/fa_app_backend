@@ -22,10 +22,16 @@ class Profile(models.Model):
     is_monitor = models.BooleanField(default=False)
     hash = models.CharField(max_length=64, blank=True, unique=True)
 
+    def __str__(self):
+        return self.name + ' (' + self.group.index + ')'
+
     def save(self, *args, **kwargs):
         from hashlib import sha256
         self.hash = sha256((self.name+self.group.index).encode()).hexdigest()
         super(Profile, self).save(*args, **kwargs)
+
+    class Meta:
+        ordering = ('group', 'name')
 
 
 class HomeTask(models.Model):
