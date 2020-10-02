@@ -6,5 +6,5 @@ from graphene_django.views import GraphQLView
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/v1/', include(rest_urls)),
-    path('api/v2/', GraphQLView.as_view(graphql=True))
+    path('api/v2/', GraphQLView.as_view(graphiql=True))
 ]
