@@ -4,3 +4,7 @@ restapi/__pycache__
 restapi/migrations
 db.sqlite3
 fa_app_back/__pycache__
+graphqlapi/migrations
+graphqlapi/__pycache__
+core/migrations
+core/__pycache__

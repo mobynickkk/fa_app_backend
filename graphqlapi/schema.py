@@ -1,6 +1,6 @@
 import graphene
 from graphene_django import DjangoObjectType
-from restapi.models import Profile, HomeTask
+from core.models import Profile, HomeTask
 
 
 class ProfileType(DjangoObjectType):

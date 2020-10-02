@@ -2,7 +2,7 @@ from django.http import HttpResponse
 from django.core.exceptions import ObjectDoesNotExist
 from rest_framework import viewsets, views, mixins, generics
 from rest_framework.response import Response
-from .models import Profile, HomeTask
+from core.models import Profile, HomeTask
 from .serializers import ProfileSerializer, HomeTaskSerializer
 from icalendar import Calendar
 from datetime import datetime, timezone

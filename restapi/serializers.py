@@ -1,4 +1,4 @@
-from .models import Profile, HomeTask
+from core.models import Profile, HomeTask
 from rest_framework import serializers
 
 
