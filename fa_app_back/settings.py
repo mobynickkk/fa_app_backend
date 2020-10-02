@@ -81,4 +81,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+GRAPHENE = {
+    'SCHEMA': 'fa_app_back.schema.schema'
+}
+
 django_heroku.settings(locals())
