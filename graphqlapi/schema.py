@@ -1,6 +1,13 @@
 import graphene
 from graphene_django import DjangoObjectType
-from core.models import Profile, HomeTask
+from core.models import Profile, HomeTask, Group
+
+
+class GroupType(DjangoObjectType):
+
+    class Meta:
+        model = Group
+        fields = ('index', )
 
 
 class ProfileType(DjangoObjectType):
