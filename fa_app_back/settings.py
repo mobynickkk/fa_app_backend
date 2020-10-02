@@ -19,7 +19,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'restapi',
     'graphqlapi',
-    'graphene_django'
+    'graphene_django',
+    'graphene',
+    'core'
 ]
 
 MIDDLEWARE = [
