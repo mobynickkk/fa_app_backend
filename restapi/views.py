@@ -28,12 +28,10 @@ def get_calendar(request):
                     'type': data_array[0],
                     'teacher': data_array[1],
                     'place': str(component.get("location")),
-                    'time': str(dt_start[3]) + ':' + '{:02}'.format(dt_start[4]) + '-' +
-                    str(dt_end[3]) + ':' + '{:02}'.format(dt_end[4])
+                    'time': f'{dt_start[3]}:{dt_start[4]:02}-{dt_end[3]}:{dt_end[4]:02}'
                 }
 
-                if not current_key or (dt := f'{dt_start[1]:02}/{dt_start[2]:02}/{int(str(dt_start[0])[2:]):02}')\
-                        != current_key:
+                if not current_key or (dt := f'{dt_start[1]:02}/{dt_start[2]:02}/{int(str(dt_start[0])[2:]):02}') != current_key:
                     response.append({
                         'key': dt,
                         'list': [lesson]
