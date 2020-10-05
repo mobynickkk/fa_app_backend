@@ -66,7 +66,7 @@ class CreateHomeTask(graphene.Mutation):
                 subject=input_.subject,
                 deadline=input_.deadline,
                 task=input_.task,
-                profile=Profile.objects.get(hash=input_.profile__hash)
+                profile=Profile.objects.get(hash=input_.profile)
             )
             home_task_instance.save()
             return cls(ok=ok, task=home_task_instance)
