@@ -109,9 +109,9 @@ class DeleteHomeTask(graphene.Mutation):
 
 
 class Mutation(graphene.ObjectType):
-    create_actor = CreateHomeTask.Field()
-    update_actor = UpdateHomeTask.Field()
-    create_movie = DeleteHomeTask.Field()
+    create_task = CreateHomeTask.Field()
+    update_task = UpdateHomeTask.Field()
+    delete_task = DeleteHomeTask.Field()
 
 
 schema = graphene.Schema(query=Query, mutation=Mutation)
