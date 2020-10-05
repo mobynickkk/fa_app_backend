@@ -24,7 +24,7 @@ class HomeTaskType(DjangoObjectType):
 
 class HomeTaskInput(graphene.InputObjectType):
     id = graphene.ID()
-    profile__hash = graphene.String()
+    profile = graphene.String()
     subject = graphene.String()
     deadline = graphene.Date()
     task = graphene.String()
