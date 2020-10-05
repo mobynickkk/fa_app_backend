@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 def get_calendar(request):
     from json import dumps
     response = []
-    with open('pm_20_4.ics', 'rb') as file:
+    with open(f'calendars/{request.GET["group"]}.ics', 'rb') as file:
         current_key = ''
         i = 0
         calendar = Calendar.from_ical(file.read())
