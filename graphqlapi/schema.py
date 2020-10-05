@@ -76,16 +76,16 @@ class CreateHomeTask(graphene.Mutation):
 
 class UpdateHomeTask(graphene.Mutation):
     class Arguments:
-        id = graphene.Int()
+        id_ = graphene.Int()
         input_ = HomeTaskInput(required=True)
 
     ok = graphene.Boolean()
     task = graphene.Field(HomeTaskType)
 
     @classmethod
-    def mutate(cls, root, info, input_=None):
+    def mutate(cls, root, info, id_, input_=None):
         try:
-            home_task_instance = HomeTask.objects.get(pk=input_.id)
+            home_task_instance = HomeTask.objects.get(pk=id_)
             home_task_instance.subject = input_.subject
             home_task_instance.task = input_.task
             home_task_instance.deadline = input_.deadline
