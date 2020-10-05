@@ -31,7 +31,7 @@ def get_calendar(request):
                     'time': f'{dt_start[3]}:{dt_start[4]:02}-{dt_end[3]}:{dt_end[4]:02}'
                 }
 
-                if not current_key or (dt := f'{dt_start[1]:02}/{dt_start[2]:02}/{int(str(dt_start[0])[2:]):02}') != current_key:
+                if (dt := f'{dt_start[1]:02}/{dt_start[2]:02}/{int(str(dt_start[0])[2:]):02}') != current_key:
                     response.append({
                         'key': dt,
                         'list': [lesson]
